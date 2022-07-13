@@ -1,0 +1,17 @@
+Olá, bem vindo!!
+Meu nome é Natália, tenho 26 anos e estou no último módulo de front-end no curso de desenvolvimento web full stack pela labenu e ingressei também no bootcamp Santander Code Girls.
+Pela Labenu, até o momento vimos as linguagens javascript, git, github, html5, css3 e react.js.
+Abaixo deixarei alguns de meus projetos realizados no curso.
+
+https://grandiose-notebook.surge.sh --> Projeto realizado em grupo de 3 pessoas. Utilizamos as linguagens html5 e css3.
+
+https://bouncy-month.surge.sh/ --> Projeto realizado em dupla, feito em react.
+Foi nosso primeiro projeto em grupo com react.js.
+
+https://ossified-weather.surge.sh/ --> Projeto individual.
+Uma plataforma parecida com a do Spotify.
+
+https://flowery-bread.surge.sh/ --> Projeto individual.
+É um site de viagens espaciais. Para acessar a área administrativa basta usar o email: labexviagens@gmail.com e a senha: 654321.
+
+https://glossy-comb.surge.sh/ ---> Pokedéx, um projeto recente, feito individualmente e em grupo. O link disponibilizado é o individual.
